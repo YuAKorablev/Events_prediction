@@ -5,4 +5,4 @@
 Необходимо распаковать файл Data.csv и положить в папку проекта. 
 Необходимо положить файл DataOut.csv в папку проекта. 
 
-Установить пакеты : numba, cvxopt, functools, importlib.
+Установить пакеты : numba, cvxopt, functools, importlib, и другие, встречающиеся в самом NoteBook файле. 
