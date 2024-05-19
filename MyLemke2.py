@@ -1,8 +1,9 @@
+# РІР·СЏС‚Рѕ Сѓ AndyLamperski Рё Р°РґР°РїС‚РёСЂРѕРІР°РЅРѕ РїРѕРґ numba
+# https://github.com/AndyLamperski/lemkelcp?ysclid=lr9md22auy264370024
+
+
 import numpy as np
 from numba import njit
-
-# взято у AndyLamperski и адаптировано под numba
-# https://github.com/AndyLamperski/lemkelcp?ysclid=lr9md22auy264370024
 
 def Lemke(M,q,maxIter = 10000):
 
